@@ -86,7 +86,6 @@ const Home = () => {
               Made by  
                 {" "}
                 Kajal <></>Rawat
-              </a>
             </div>
           </div>
         </div>
